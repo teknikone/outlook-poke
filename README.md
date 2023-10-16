@@ -1,4 +1,4 @@
-# outlook-poke
+# [outlook-poke](https://github.com/teknikone/outlook-poke/raw/main/Poke2outlook.exe) indir/download
 
 Askıda kalan outlook işlemini kapatıp yeniden açarak mail eşitleme trafiğin durduğu durumlarda kullanılan ufak bir koddur. 
 Daha çok IMAP sunucular ile yaşanan gönder al işlemlerinin durduğu outlook.exe nin kendini kapatmayıp arka planda hataya düşmesi ile sonuçlanan problemi gecici olarak düzeltir.
